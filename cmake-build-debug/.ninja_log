@@ -1,0 +1,11 @@
+# ninja log v5
+9	191	7399661112394719	CMakeFiles/ImplementationSOIL.dir/src/Camera.cpp.obj	e4fe7167feda020e
+4	1705	7399661127544618	CMakeFiles/ImplementationSOIL.dir/src/Block.cpp.obj	55462ee0e42610d9
+12	1737	7399661127864602	CMakeFiles/ImplementationSOIL.dir/src/main.cpp.obj	525b8b613b724e92
+19	1798	7399661128474586	CMakeFiles/ImplementationSOIL.dir/src/Map.cpp.obj	65fd57efb2fec413
+16	203	7399661112484699	CMakeFiles/soil_lib.dir/SOIL/src/image_helper.c.obj	8b5fa7ec526ffff8
+31	234	7399661112824693	CMakeFiles/soil_lib.dir/SOIL/src/image_DXT.c.obj	32d33569e768e3fc
+27	1049	7399661120974638	CMakeFiles/soil_lib.dir/SOIL/src/SOIL.c.obj	369ab2b9b6550361
+23	742	7399661117894664	CMakeFiles/soil_lib.dir/SOIL/src/stb_image_aug.c.obj	557408564201bb4f
+1049	1142	7399661121914631	libsoil_lib.a	81aebf7fb6584da
+1798	1947	7399661129904629	ImplementationSOIL.exe	aedf0d68b52c26ad

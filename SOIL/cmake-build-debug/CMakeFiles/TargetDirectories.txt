@@ -1,0 +1,3 @@
+D:/Téléchargements/SOIL-master/SOIL/cmake-build-debug/CMakeFiles/soil.dir
+D:/Téléchargements/SOIL-master/SOIL/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Téléchargements/SOIL-master/SOIL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

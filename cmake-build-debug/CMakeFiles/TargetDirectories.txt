@@ -1,0 +1,4 @@
+D:/ImplementationSOIL/cmake-build-debug/CMakeFiles/ImplementationSOIL.dir
+D:/ImplementationSOIL/cmake-build-debug/CMakeFiles/soil_lib.dir
+D:/ImplementationSOIL/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ImplementationSOIL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
